@@ -1,0 +1,1 @@
+docker run --name dev-artifactory -d -p 5003:8081 --mount source=artifactory-data,target=/var/opt/jfrog/artifactory/data docker.bintray.io/jfrog/artifactory-cpp-ce:latest
