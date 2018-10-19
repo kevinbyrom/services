@@ -1,0 +1,1 @@
+This is a repository containing scripts to set up various services I use frequency for dev.
